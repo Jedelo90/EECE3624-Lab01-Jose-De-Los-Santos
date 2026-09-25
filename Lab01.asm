@@ -4,7 +4,7 @@
  *  Lab Name: Ready, Set, Go!
  *    Author: Dr. Greg Nordstrom
  *   Created: 1/11/2021
- *  Modified: 
+ *  Modified: Jose De Los Santos 
  * Processor: ATmega128A (on the ReadyAVR board)
  *
  * This program verifies the operation of the ReadyAVR-64/128 board.
